@@ -1,0 +1,15 @@
+Proje Hakkında
+
+Bu proje, DNS ve IP adresi üzerinden çeşitli analizler yapabilen ve VirusTotal API ile entegrasyon sağlayarak zararlı yazılımları tespit etmeye yardımcı olan bir araçtır.
+
+Özellikler
+
+DNS Analyzer: Bir alan adı üzerinde DNS kayıtlarını sorgular ve analiz eder.
+
+VirusTotal Entegrasyonu: Girilen alan adını VirusTotal API aracılığıyla analiz eder ve zararlı yazılımların detaylı bilgisini verir.
+
+IP'den DNS Çözümleme: Bir IP adresinin ters DNS kaydını (PTR) çözümleyerek ilgili alan adlarını bulur.
+
+Sonuçları Dışarı Aktarma: Yapılan analiz sonuçlarını txt veya json formatında kaydetme seçeneği sunar.
+
+API Anahtar Yönetimi: VirusTotal API anahtarı ekleme ve değiştirme özelliği
